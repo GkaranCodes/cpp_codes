@@ -11,6 +11,6 @@ int main()
     {
         cout << i <<" "<< "*" <<" "<< j <<" "<<"="<<" " << i * j << endl;
         j++;
-    } while (j <= 10);
+    } while (j <= 10  );
     return 0;
 }
